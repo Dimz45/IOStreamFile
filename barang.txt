@@ -1,0 +1,5 @@
+Laptop;8500000.0;5
+Smartphone;3500000.0;12
+Kemeja Flanel;150000.0;30
+Keripik Kentang;15000.0;100
+Buku Tulis;5000.0;250

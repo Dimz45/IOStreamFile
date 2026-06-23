@@ -1,5 +1,5 @@
-// Nama: [Isi Nama Anda di Sini]
-// NPM: [Isi NPM Anda di Sini]
+// Nama: [Muhammad Dimas Surya Putra]
+// NPM: [2410010315]
 
 package tugas;
 
